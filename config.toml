@@ -1,4 +1,4 @@
-baseURL = "http://jessie-lee.netlify.app"
+baseURL = "https://jessie-lee.netlify.app"
 languageCode = "en-us"
 title = "Jessie's Note"
 theme = "dimension"
